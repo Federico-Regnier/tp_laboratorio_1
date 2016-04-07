@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1460051098 source:c:\users\bartok\documents\workspace_utn\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctype.h>
+	<conio.h>
+	"funciones.h"
+
+1460050977 c:\users\bartok\documents\workspace_utn\tp_1\funciones.h
+
+1460051211 source:c:\users\bartok\documents\workspace_utn\tp_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<conio.h>
+	<ctype.h>
+
