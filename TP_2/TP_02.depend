@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1461788405 source:c:\users\bartok\documents\workspace_utn\tp_02\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	<conio.h>
+	"input.h"
+	"funciones.h"
+
+1461204128 c:\users\bartok\documents\workspace_utn\tp_02\funciones.h
+
+1461108734 c:\users\bartok\documents\workspace_utn\tp_02\input.h
+
+1461787577 source:c:\users\bartok\documents\workspace_utn\tp_02\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+	"input.h"
+
+1461788301 source:c:\users\bartok\documents\workspace_utn\tp_02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"funciones.h"
+	"input.h"
+
+1461111418 source:c:\users\federico\downloads\utn\tp_02\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+	"input.h"
+
+1461108734 c:\users\federico\downloads\utn\tp_02\input.h
+
+1461203662 source:c:\users\federico\downloads\utn\tp_02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"funciones.h"
+	"input.h"
+
+1461194387 c:\users\federico\downloads\utn\tp_02\funciones.h
+
+1461203211 source:c:\users\federico\downloads\utn\tp_02\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	<conio.h>
+	"input.h"
+	"funciones.h"
+
