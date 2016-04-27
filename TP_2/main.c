@@ -34,7 +34,7 @@ int main()
                 resp = altas(pers,TAM);
                 if(resp == 0)
                 {
-                    printf("\nPersona agregada con exito.\n");
+                    printf("\nPersona agregada con exito\n");
                     system("pause");
                 }
                 else

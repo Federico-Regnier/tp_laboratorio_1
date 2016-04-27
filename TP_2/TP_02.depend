@@ -57,3 +57,32 @@
 	"input.h"
 	"funciones.h"
 
+1461788405 source:c:\users\bartok\documents\workspace_utn\tp_laboratorio_1\tp_2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	<conio.h>
+	"input.h"
+	"funciones.h"
+
+1461108734 c:\users\bartok\documents\workspace_utn\tp_laboratorio_1\tp_2\input.h
+
+1461204128 c:\users\bartok\documents\workspace_utn\tp_laboratorio_1\tp_2\funciones.h
+
+1461787577 source:c:\users\bartok\documents\workspace_utn\tp_laboratorio_1\tp_2\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+	"input.h"
+
+1461788751 source:c:\users\bartok\documents\workspace_utn\tp_laboratorio_1\tp_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"funciones.h"
+	"input.h"
+
