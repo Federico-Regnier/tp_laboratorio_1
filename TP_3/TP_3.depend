@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1464216953 source:c:\users\bartok\documents\workspace_utn\tp_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"funciones.h"
+	"input.h"
+
+1464218236 c:\users\bartok\documents\workspace_utn\tp_3\funciones.h
+
+1464217397 source:c:\users\bartok\documents\workspace_utn\tp_3\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+	"input.h"
+
+1464123498 c:\users\bartok\documents\workspace_utn\tp_3\input.h
+
+1464217154 source:c:\users\bartok\documents\workspace_utn\tp_3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	"input.h"
+	"funciones.h"
+
