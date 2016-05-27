@@ -156,10 +156,9 @@ int getLongInt(long int* input,char message[],char eMessage[], long int lowLimit
 
 /**
 * \brief Solicita S o N al usuario y la valida
-* \param input Se carga el caracter validado
 * \param message Es el mensaje a ser mostrado
 * \param eMessage Es el mensaje a ser mostrado en caso de error
-* \return Si obtuvo un caracter valido [0] si no [-1]
+* \return caraacter S o N validado
 *
 */
 
