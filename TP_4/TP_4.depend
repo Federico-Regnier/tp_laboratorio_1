@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1465649201 source:c:\users\federico\documents\utn\tp_4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1463521274 c:\users\federico\documents\utn\tp_4\arraylist.h
+
+1465649226 source:c:\users\federico\documents\utn\tp_4\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+	"input.h"
+
+1465649232 c:\users\federico\documents\utn\tp_4\input.h
+
+1465651529 source:c:\users\federico\documents\utn\tp_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1465652025 source:c:\users\federico\documents\utn\tp_4\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"input.h"
+	"ArrayList.h"
+
+1465795220 source:c:\users\bartok\documents\workspace_utn\tp_4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1465787652 c:\users\bartok\documents\workspace_utn\tp_4\arraylist.h
+
+1465794899 source:c:\users\bartok\documents\workspace_utn\tp_4\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	"input.h"
+	"ArrayList.h"
+	"Producto.h"
+
+1465760423 c:\users\bartok\documents\workspace_utn\tp_4\input.h
+
+1465794619 c:\users\bartok\documents\workspace_utn\tp_4\producto.h
+
+1465791169 source:c:\users\bartok\documents\workspace_utn\tp_4\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+	"input.h"
+
+1465795293 source:c:\users\bartok\documents\workspace_utn\tp_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"input.h"
+	"ArrayList.h"
+	"Producto.h"
+
